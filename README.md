@@ -4,7 +4,7 @@
 
 Submitted by: **Mindy Van**
 
-Time spent: **3.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
